@@ -1,7 +1,7 @@
 ### Hello,World  
   
 
-👋我是 Rogi，是一个前端工程师，会一点 Vue / React / Node，技术一般但喜欢折腾新事物，以下内容通过 akaRogi/akaRogi自动更新  
+👋我是 Rogi，是一个前端工程师，会一点 Vue / React / Node，技术一般但喜欢折腾新事物  
   
 
 <br/>  
